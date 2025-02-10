@@ -34,5 +34,8 @@ color: black
 
 h2 {
   font-size: 35px;
+  border-image-width: 20px;
 }
+
+
   
